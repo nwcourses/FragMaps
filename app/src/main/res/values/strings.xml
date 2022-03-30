@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragMaps</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="go">Go!</string>
+    <string name="setMapStyle">Set map style</string>
+    <string name="setLocation">Set location</string>
+    <string name="regularview">Regular map view</string>
+    <string name="opentopomapview">OpenTopoMap view</string>
+    <string name="map">Map</string>
+</resources>
